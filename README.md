@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Ribeye', cursive;">🧚‍♂️ Manu-MD WA Bot V8 🤍</h1>
+<h1 align="center" style="font-family: 'Ribeye', cursive;">🧚‍♂️ Sithum MD WA Bot V8 🤍</h1>
 <p align="center" style="font-size: 18px;">✨ The Ultimate WhatsApp Multi-Device Bot with Full Button Support ✨</p>
 
 <div align="center">
@@ -8,8 +8,8 @@
 </div>
 
 <div align="center">
-  <a href="https://youtube.com/@ManulOfficialTech">
-    <img src="https://manul-official-new-api-site.vercel.app/manu-md" alt="Manu-MD WA Bot" width="700">
+  <a href="https://youtube.com/">
+    <img src="https://manul-official-new-api-site.vercel.app/manu-md" alt="Sithum MD WA Bot" width="700">
   </a>
 </div>
 
